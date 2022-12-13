@@ -49,4 +49,6 @@ Next, we are met with the bar character `“|”` which signifies “or” meani
 ## Author
 
 
-This gist was written by Timothy Barnaby.  I am a full stack web developer with a background in natural human language education and acquisition.  For more information about my work checkout my GitHub and get in touch with me.
+This gist was written by Timothy Barnaby.  I am a full stack web developer with a background in natural human language education and acquisition.  For more information about my work checkout my [tbarns](https://github.com/tbarns).
+
+Send me an email at  [tbarnaby1@gmail.com](mailto:tbarnaby1@gmail.com) if you would like to get in contact about working together in the future or have any questions. 
